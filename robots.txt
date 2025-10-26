@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://thecalculators.online/sitemap.xml
+
+# Disallow admin areas if any in future
+# Disallow: /admin/
+
+# Allow all calculators
+Allow: /tools/
+
+# Allow static pages
+Allow: /pages/
+
+# Allow assets
+Allow: /assets/
+
+# Crawl-delay (optional)
+Crawl-delay: 1
